@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<assignment>
+
+
+    <title>Assignment</title>
+
+    <category>
+        <names>Names</names>
+        <hobby>Hobby</hobby>
+    </category>
+
+    <container>
+        <jen_section>
+            <name>Jennielyn Heray</name>
+            <hobbies>Playing Volleyball</hobbies>
+        </jen_section>
+
+        <carl_section>
+            <name>Carl Hari Alisangco</name>
+            <hobbies>Playing Valoraznt</hobbies>
+        </carl_section>
+    </container>
+
+</assignment>

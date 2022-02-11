@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+name{
+    padding-left: 18px;
+}
+
+@font-face {
+    font-family: myfont;
+    src: url("Fonts/Louis\ George\ Cafe\ Bold\ Italic.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:bettertogether;
+    src: url("Fonts/Better\ Together\ Script.ttf")format('truetype');
+}
+assignment {
+    background-color: #C3DBD9;
+    font-size:80%;
+    margin: 5px;;
+    font-family: myfont;
+
+}
+
+container{
+    width: 50%;
+    margin: 10px auto;
+}
+
+jen_section, carl_section{
+    width:50%;
+    margin:10px auto; 
+    padding: .5rem;
+    font-size:15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+title {
+    display: block;
+    font-weight:bolder;
+    text-align:center;
+    font-size:  60px;
+    color: #BB6464;
+    font-family: bettertogether;
+}
+
+category{
+    width:80%;
+    margin:0 auto;
+    background-color: #A1B57D;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color:#FFEDDB;
+    font-size: 20px;
+    border-radius: 20px;
+}

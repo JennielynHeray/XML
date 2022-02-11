@@ -11,15 +11,31 @@
     </category>
 
     <container>
-        <jen_section>
+        <student>
             <name>Jennielyn Heray</name>
             <hobbies>Playing Volleyball</hobbies>
-        </jen_section>
+        </student>
 
-        <carl_section>
+        <student>
             <name>Carl Hari Alisangco</name>
             <hobbies>Playing Valoraznt</hobbies>
-        </carl_section>
+        </student>
+
+        <student>
+            <name>Carl Dennis Pineda</name>
+            <hobbies>Game Development</hobbies>
+        </student>
+
+        <student>
+            <name>Shalom Jamaica Ave</name>
+            <hobbies>Eating Food</hobbies>
+        </student>
+
+        <student>
+            <name>Alvin Escabarte</name>
+            <hobbies>Playing Online Games</hobbies>
+        </student>
+
     </container>
 
 </assignment>

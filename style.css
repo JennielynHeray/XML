@@ -3,10 +3,6 @@
     padding: 0;
 }
 
-name {
-    padding-left: 18px;
-}
-
 @font-face {
     font-family: myfont;
     src: url("Fonts/Louis\ George\ Cafe\ Bold\ Italic.ttf") format("truetype");
@@ -19,29 +15,15 @@ name {
     src: url("Fonts/Better\ Together\ Script.ttf") format("truetype");
 }
 
-assignment {
+Assignment {
     background-color: #c3dbd9;
     font-size: 80%;
     margin: 5px;
     font-family: myfont;
 }
 
-container {
-    width: 50%;
-    margin: 10px auto;
-}
-
-student {
-    width: 50%;
-    margin: 10px auto;
-    padding: 0.5rem;
-    font-size: 15px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-title {
+title,
+group {
     display: block;
     font-weight: bolder;
     text-align: center;
@@ -60,4 +42,23 @@ category {
     color: #ffeddb;
     font-size: 20px;
     border-radius: 20px;
+}
+
+container {
+    width: 50%;
+    margin: 10px auto;
+}
+
+student {
+    width: 50%;
+    margin: 10px auto;
+    padding: 0.5rem;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+name {
+    padding-left: 18px;
 }

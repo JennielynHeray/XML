@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="style.css"?>
-<assignment>
 
+<Assignment>
 
-    <title>Assignment</title>
+    <title>Assignment One</title>
+    <group>Greils Programmers</group>
 
     <category>
         <names>Names</names>
@@ -18,7 +19,7 @@
 
         <student>
             <name>Carl Hari Alisangco</name>
-            <hobbies>Playing Valoraznt</hobbies>
+            <hobbies>Playing Valorant</hobbies>
         </student>
 
         <student>
@@ -35,7 +36,6 @@
             <name>Alvin Escabarte</name>
             <hobbies>Playing Online Games</hobbies>
         </student>
-
     </container>
 
-</assignment>
+</Assignment>

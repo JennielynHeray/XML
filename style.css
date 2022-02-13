@@ -11,8 +11,8 @@
 }
 
 @font-face {
-    font-family: bettertogether;
-    src: url("Fonts/Better\ Together\ Script.ttf") format("truetype");
+    font-family: sticky;
+    src: url("Fonts/Sticky\ Notes.ttf") format("truetype");
 }
 
 Assignment {
@@ -29,7 +29,7 @@ group {
     text-align: center;
     font-size: 60px;
     color: #bb6464;
-    font-family: bettertogether;
+    font-family: sticky;
 }
 
 category {

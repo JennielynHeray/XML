@@ -22,6 +22,11 @@ Assignment {
     font-family: myfont;
 }
 
+heading {
+    margin-top: 5%;
+    display: block;
+}
+
 title,
 group {
     display: block;
@@ -32,6 +37,8 @@ group {
     font-family: sticky;
 }
 
+
+/*
 category {
     width: 80%;
     margin: 0 auto;
@@ -45,12 +52,12 @@ category {
 }
 
 container {
-    width: 50%;
+    width: 80%;
     margin: 10px auto;
 }
 
 student {
-    width: 50%;
+    width: 67%;
     margin: 10px auto;
     padding: 0.5rem;
     font-size: 15px;
@@ -61,4 +68,45 @@ student {
 
 name {
     padding-left: 18px;
+}
+*/
+
+table {
+    display: table;
+    font-size: 14px;
+    width: 60%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+table-heading,
+table-row {
+    display: table-row;
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+header,
+id,
+name,
+hobbies,
+email {
+    display: table-cell;
+    width: 25%;
+    padding: 8px;
+}
+
+header {
+    border: solid 1px;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+id,
+name,
+hobbies,
+email {
+    border: solid 1px;
+    border-style: none solid solid solid;
 }

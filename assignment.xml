@@ -1,62 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="style.css"?>
 
+<!-- ROOT -->
 <Assignment>
-
+    <!-- Header Section-->
     <heading>
         <title>Assignment One</title>
         <group>Greils Programmers</group>
     </heading>
 
-    <!--
-    <container>
-        <table-header>
-            <category>Head 1</category>
-            <category>Head 1</category>
-            <category>Head 1</category>
-            <category>Head 1</category>
-        </table-header>
-
-
-        <student>
-            <id>2020-103893</id>
-            <name>Jennielyn Heray</name>
-            <hobbies>Playing Volleyball</hobbies>
-            <email>test@gmail.com</email>
-        </student>
-
-        <student>
-            <id>2020-100604</id>
-            <name>Carl Hari Alisangco</name>
-            <hobbies>Playing Valorant</hobbies>
-            <email>test@gmail.com</email>
-        </student>
-
-        <student>
-            <id>2020-100640</id>
-            <name>Carl Dennis Pineda</name>
-            <hobbies>Game Development</hobbies>
-            <email>test@gmail.com</email>
-        </student>
-
-        <student>
-            <id>2020-100606</id>
-            <name>Shalom Jamaica Ave</name>
-            <hobbies>Eating Food</hobbies>
-            <email>test@gmail.com</email>
-        </student>
-
-        <student>
-            <id>2020-100617</id>
-            <name>Alvin Escabarte</name>
-            <hobbies>Playing Online Games</hobbies>
-            <email>test@gmail.com</email>
-        </student>
-    </container>
-
--->
-
+    <!-- Present as table -->
     <table>
+        <!-- Header Row -->
         <table-heading>
             <header> Student ID</header>
             <header> Name </header>
@@ -64,43 +19,41 @@
             <header> Email </header>
         </table-heading>
 
+        <!-- Rows separated by one another-->
         <table-row>
             <id>2020-103893</id>
             <name>Jennielyn Heray</name>
             <hobbies>Playing Volleyball</hobbies>
-            <email>test@gmail.com</email>
+            <email> jennielynheray24@gmail.com</email>
         </table-row>
 
         <table-row>
             <id>2020-100604</id>
             <name>Carl Hari Alisangco</name>
             <hobbies>Playing Valorant</hobbies>
-            <email>test@gmail.com</email>
+            <email>alisangcocarl@gmail.com</email>
         </table-row>
 
         <table-row>
             <id>2020-100640</id>
             <name>Carl Dennis Pineda</name>
             <hobbies>Game Development</hobbies>
-            <email>test@gmail.com</email>
+            <email>bluesniper017@gmail.com</email>
         </table-row>
 
         <table-row>
             <id>2020-100606</id>
             <name>Shalom Jamaica Ave</name>
             <hobbies>Eating Food</hobbies>
-            <email>test@gmail.com</email>
+            <email>shalomjamaicaave@gmail.com</email>
         </table-row>
 
         <table-row>
             <id>2020-100617</id>
             <name>Alvin Escabarte</name>
             <hobbies>Playing Online Games</hobbies>
-            <email>test@gmail.com</email>
+            <email>escabartealvin@gmail.com</email>
         </table-row>
-    </table>
-    <table>
-        
     </table>
 
 </Assignment>

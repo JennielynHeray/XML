@@ -37,8 +37,6 @@ group {
     font-family: sticky;
 }
 
-
-/*
 category {
     width: 80%;
     margin: 0 auto;
@@ -69,7 +67,6 @@ student {
 name {
     padding-left: 18px;
 }
-*/
 
 table {
     display: table;
@@ -85,6 +82,12 @@ table-row {
     text-align: center;
     border: 1px solid black;
     padding: 10px;
+}
+
+table-heading {
+    background-color: #a1b57d;
+    color: #ffeddb;
+    border-radius: 20px;
 }
 
 header,

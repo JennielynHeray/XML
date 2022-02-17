@@ -16,13 +16,14 @@
 }
 
 Assignment {
-    background-color: #c3dbd9;
+    background-image: url("Fonts/background2.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
     font-size: 80%;
-    margin: 5px;
     font-family: myfont;
 }
 
-heading {
+heading { 
     margin-top: 5%;
     display: block;
 }

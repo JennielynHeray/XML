@@ -1,7 +1,12 @@
+/*ROOT*/
+
 * {
     margin: 0;
     padding: 0;
 }
+
+
+/*Font Setting*/
 
 @font-face {
     font-family: myfont;
@@ -23,7 +28,7 @@ Assignment {
     font-family: myfont;
 }
 
-heading { 
+heading {
     margin-top: 5%;
     display: block;
 }
@@ -95,14 +100,14 @@ header,
 id,
 name,
 hobbies,
-email {
+html {
     display: table-cell;
     width: 25%;
     padding: 8px;
 }
 
 header {
-    border: solid 1px;
+    border: solid 1px #000;
     font-size: 26px;
     font-weight: bold;
 }
@@ -110,7 +115,23 @@ header {
 id,
 name,
 hobbies,
-email {
+html {
     border: solid 1px;
     border-style: none solid solid solid;
+    transition: 0.7s ease-in-out;
+    cursor: pointer;
+}
+
+id:hover,
+name:hover,
+hobbies:hover,
+html:hover {
+    background-color: #873e23;
+    color: #ffeddb;
+    border: solid 1px #000;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
 }

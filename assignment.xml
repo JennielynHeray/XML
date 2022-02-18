@@ -24,35 +24,45 @@
             <id>2020-103893</id>
             <name>Jennielyn Heray</name>
             <hobbies>Playing Volleyball</hobbies>
-            <email> jennielynheray24@gmail.com</email>
+            <html xmlns="http://www.w3.org/1999/xhtml">
+                <a href="mailto:jennielynheray24@gmail.com"> jennielynheray24@gmail.com </a>
+            </html>
         </table-row>
 
         <table-row>
             <id>2020-100604</id>
             <name>Carl Hari Alisangco</name>
             <hobbies>Playing Valorant</hobbies>
-            <email>alisangcocarl@gmail.com</email>
+            <html xmlns="http://www.w3.org/1999/xhtml">
+                <a href="mailto:alisangcocarl@gmail.com"> alisangcocarl@gmail.com </a>
+            </html>
         </table-row>
 
         <table-row>
             <id>2020-100640</id>
             <name>Carl Dennis Pineda</name>
             <hobbies>Game Development</hobbies>
-            <email>bluesniper017@gmail.com</email>
+            <html xmlns="http://www.w3.org/1999/xhtml">
+                <a href="mailto:bluesniper017@gmail.com"> bluesniper017@gmail.com </a>
+            </html>
         </table-row>
 
         <table-row>
             <id>2020-100606</id>
             <name>Shalom Jamaica Ave</name>
             <hobbies>Eating Food</hobbies>
-            <email>shalomjamaicaave@gmail.com</email>
+            <html xmlns="http://www.w3.org/1999/xhtml">
+                <a href="mailto:shalomjamaicaave@gmail.com"> shalomjamaicaave@gmail.com </a>
+            </html>
         </table-row>
 
         <table-row>
             <id>2020-100617</id>
             <name>Alvin Escabarte</name>
             <hobbies>Playing Online Games</hobbies>
-            <email>escabartealvin@gmail.com</email>
+            <html xmlns="http://www.w3.org/1999/xhtml">
+                <a href="mailto:escabartealvin@gmail.com"> escabartealvin@gmail.com </a>
+            </html>
         </table-row>
     </table>
 

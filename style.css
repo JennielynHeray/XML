@@ -43,37 +43,6 @@ group {
     font-family: sticky;
 }
 
-category {
-    width: 80%;
-    margin: 0 auto;
-    background-color: #a1b57d;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    color: #ffeddb;
-    font-size: 20px;
-    border-radius: 20px;
-}
-
-container {
-    width: 80%;
-    margin: 10px auto;
-}
-
-student {
-    width: 67%;
-    margin: 10px auto;
-    padding: 0.5rem;
-    font-size: 15px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-name {
-    padding-left: 18px;
-}
-
 table {
     display: table;
     font-size: 14px;
